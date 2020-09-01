@@ -1,0 +1,1377 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Knowledge, Technology, &amp; Policy, Summer</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Risk, Terrorism, and the Internet</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Alison Anderson</string-name>
+        </contrib>
+      </contrib-group>
+      <pub-date>
+        <year>2003</year>
+      </pub-date>
+      <volume>16</volume>
+      <issue>2</issue>
+      <fpage>24</fpage>
+      <lpage>33</lpage>
+      <abstract>
+        <p>This paper examines how far new media technologies are transforming the nature of risk in contemporary society. It focuses on the ways in which the Internet came to act as a key vehicle for the rapid circulation of news, rumors,and hoaxes, as well as displays of public grieving, in the wake of September 11. The paper concludes by reassessing theories of "risk society" in relation to growing anxieties about the nature of future terrorist attacks. It suggests that there is an urgent need to understand how the dynamics of new media technologies are altering the ways in which we perceive such risks.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_1_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_2_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_3_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_4_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_5_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_6_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_7_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_8_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_9_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="C:\Users\Kevin\Documents\GitHub\Thesis\data\Text_Analysis\Text_Processing\Texts\3958\Anderson - 2003 - Risk, terrorism, and the internet.images\img_10_1.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>
+        " T h e attacks on A m e r i c a and its a f t e r m a t h are a r g u a b l y the b i g g e s t n e w s
+events that journalists o f my generation h a v e had to c o v e r "
+        <xref ref-type="bibr" rid="ref10 ref11 ref18 ref19 ref21 ref23 ref26 ref27 ref30 ref34 ref35 ref36 ref4 ref46 ref47 ref48 ref49 ref7 ref9">(Richard S a m b r o o k ,
+director, B B C News, N o v e m b e r 26, 2001, cited in B a x t e r and D o w n i n g [eds.],
+2001 : 12)</xref>
+        .
+      </p>
+      <p>T h e events o f S e p t e m b e r 11 h a v e b r o u g h t into sharp f o c u s k e y q u e s t i o n s
+c o n c e r n i n g the r o l e that n e w m e d i a t e c h n o l o g i e s h a v e p l a y e d in the e m e r
+g e n c e o f the " n e w terrorism. ''~ A n u m b e r o f studies have e x a m i n e d the
+changing nature o f t e r r o r i s m in c o n t e m p o r a r y society, yet r e l a t i v e l y little a t t e n t i o n
+has f o c u s e d u p o n terrorists' use o f the Internet. H o w are " t e r r o r i s t " o r g a n i z a
+tions using new m e d i a t e c h n o l o g i e s ? W h a t role is c o m p u t e r m e d i a t e d
+technology playing in facilitating the coordination o f terrorist activity? A n d does online
+j o u r n a l i s m o f f e r a real alternative to m a i n s t r e a m m e d i a r e p o r t i n g o f terrorist
+attacks? This paper is written with the aim o f addressing these u n d e r - r e s e a r c h e d
+issues by c o n s i d e r i n g h o w far the literature on risk can illuminate the
+signific a n c e o f c u r r e n t d e v e l o p m e n t s .</p>
+      <p>E l e c t r o n i c m e d i a t r a n s c e n d spatial and t e m p o r a l b o u n d a r i e s , c r e a t i n g n e w
+forms o f interaction on a global scale. We live in an age w h e r e we are saturated
+with information about potential risks. The power struggle over how these
+risks are defined and assessed is played out on the global media stage. Indeed,
+new media play a key role in legitimizing perceived risks through offering
+assessments about whether they are "real" or "perceived." As Adam and Van
+Loon argue: "The media do not simply 'pass on' particular relations o f risk
+definition, but constitute them. Media are hence part of the mode of risk
+production" (2000:26).</p>
+      <p>The attacks on the World Trade Center were highly symbolic, creating an
+international media spectacle and a climate of fear. As Shpiro observes:
+Communication technology developments, such as digital satellite broadcasting,
+cellular communications and the Internet, have turned terrorism into a live show, which could
+be seen stage by stage, much like a prepared script. Although both aircraft that crashed
+into the World Trade Center took off simultaneously from Boston, the terrorists delayed
+the impact of the second kidnapped aeroplane on the North Tower, ensuring that every
+television camera in New York would be focused on their murderous activities. (Shpiro,
+2002:80)</p>
+      <p>There is a symbiotic relationship between the news media and terrorists,
+even if some of their goals are at odds with one another. Clearly, terrorists
+tailor their attacks to try to gain maximum media publicity and the "new
+terrorism" is increasingly dependent upon new m e d i a technologies. As C o n w a y
+argues:</p>
+      <p>Every machine connected to the Intemet is potentially a printing press, a broadcasting
+station, or a place of assembly. And in the twenty-first century, terrorists are availing of
+the opportunity to connect. The Internet is an ideal propaganda tool for terrorists: in the
+past they had to communicate through acts of violence and hope that those acts
+garnered sufficient attention to publicise the perpetrators cause or explain their ideological
+justification. With the advent of the Internet, however, the same groups can disseminate
+their information undiluted by the media and untouched by govemment censors. (2002:
+2-3)</p>
+      <p>
+        The Internet provides terrorists with a platform with which to reach a mass
+audience and an important means o f fundraising. Also it provides terrorists
+with much greater direct control over their message compared to the
+traditional television and print media. Terrorist organizations' Internet sites allow
+for more extensive background information, they can mobilize people to take
+action, and often they conceal their reliance upon the use of violence to achieve
+political goals
+        <xref ref-type="bibr" rid="ref43 ref8">(Tsfati and Weimann, 2002)</xref>
+        . In the aftermath o f 9/11
+considerable efforts have been made by governments to monitor e-mail and Internet
+traffic, and block terrorist organizations from using the Internet
+        <xref ref-type="bibr" rid="ref26 ref38 ref39">(Scheeres,
+2001b)</xref>
+        . However, this appears to have only been partially successful
+        <xref ref-type="bibr" rid="ref43 ref8">(see Tsfati
+and Weimann, 2002)</xref>
+        .
+      </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Technology and Networks of Terror</title>
+      <p>
+        Publicity has been the main aim of terrorists throughout h i s t o r y - - b u t their
+means of propaganda has been greatly enhanced by technological
+developments in mass communications, especially with rise of the Internet
+        <xref ref-type="bibr" rid="ref32">(Nacos,
+2000)</xref>
+        . Terrorism is a form of theater designed to feed upon public anxiety and
+fear
+        <xref ref-type="bibr" rid="ref43 ref8">(Coombs, 2003; Tsfati and Weimann, 2002)</xref>
+        . However, with globalization
+and the development of new communications technology, the scope and scale
+of impact has changed. As Nacos notes:
+      </p>
+      <p>
+        Although the theatre metaphor remains instructive, it has given way to that of terrorism
+as a global television spectacular, as breaking news that is watched by international
+audiences and transcends by far the boundaries of theatrical events. (2003:3)
+Indeed, the nature of political conflict itself has altered. With the rise of the
+networked society conflicts increasingly revolve around knowledge
+        <xref ref-type="bibr" rid="ref13 ref43 ref8">(Arquilla
+and Ronfeldt, 2002; Castells, 1996)</xref>
+        . Arquilla and Ronfeldt introduced the term
+"netwar" to describe a newly developing form of conflict that is played out in
+the information society. The term "netwar" is defined as:
+...an emerging mode of conflict (and crime) at societal levels, short of traditional military
+warfare, in which the protagonists use network forms of organisation and related
+doctrines, strategies and technologies attuned to the information age. (2001: 6)
+They go on to explain that "netwar" is not restricted to the Internet and new
+technologies are not essential for people using such means. Indeed, it is often
+the case that people will use a mixture of new technology and some very
+lowtech methods. AI-Quaeda is an example of a new networked terrorist group in
+the Middle East employing a combination of high- and low-tech methods.
+Such groups are characterized by a non-hierarchical, flexible structure that is
+loosely coordinated
+        <xref ref-type="bibr" rid="ref35 ref4 ref49 ref7">(Zanini and Edwards, 2001)</xref>
+        . Often there is no single
+figurehead or "leader" who can be targeted and the existence of cells makes it
+more difficult for intelligence agencies to track down individuals.
+      </p>
+      <p>O s a m a Bin L a d e n had clearly d e v e l o p e d an e f f e c t i v e m e d i a s t r a t e g y
+well in advance of the 9/11 attacks. A major part of this was the making of
+prerecorded video films calling for a "holy war" against the United States.
+Shpiro claims: "Video as a m e d i u m o f c o m m u n i c a t i o n s has long b e e n in
+use within extremist terror groups. It is not only a visual tool c a p a b l e of
+arousing e m o t i o n s but also authenticates, to a large degree, the origin o f
+the message" (2002:81). However, in several cases it has proved very
+difficult to authenticate tapes that have supposedly been made by Bin Laden,
+although the authorities have been quick to seize on them. In the past Bin
+Laden has made extensive use o f satellite t e l e c o m m u n i c a t i o n s until these
+were intercepted. Alongside this, the a l - Q u a e d a n e t w o r k has m a d e
+extensive use of the Internet.</p>
+      <p>
+        N e w media technologies have clearly aided the formation of terrorist
+networks in three main respects. They have reduced the cost and the time
+involved in communication and coordination, and they have enabled the sharing
+of complex information through video conferencing, e-mail, and w e b sites
+over a geographically dispersed area
+        <xref ref-type="bibr" rid="ref35 ref4 ref48 ref49 ref7">(Monge and Fulk, cited in Zanini and
+Edwards, 2001: 35-6)</xref>
+        . Bin Laden is said to have developed a communications
+network incorporating e-mail, bulletin boards, and the web, with the help of
+Egyptian computer experts such as Yasser al-Serri. As Zanini and Edwards
+argue:
+      </p>
+      <p>Using the Internet for communication can increase speed of mobilisation and allow
+more dialogue between members, which enhances the organisation's flexibility, since
+tactics can be adjusted more frequently. Individuals with a common agenda and goals
+can form subgroups, meet at a target location, conduct terrorist operations, and then
+readily determine their relationships and re-disperse. (2001:36)</p>
+      <p>
+        Not only has the Internet helped coordination, Osama Bin Laden's network
+was able to obtain details about the design layout of the World Trade Center, as
+well as information about the aerial application of pesticides, from documents
+accessed over the web
+        <xref ref-type="bibr" rid="ref15 ref43 ref8">(Booth and Dunne, 2002; Conway, 2002)</xref>
+        . The
+hijackers also b o o k e d a number of their airline tickets online and were known to
+have created temporary accounts using e-mail providers, such as Hotmail, that
+ensured a high level of anonymity. It has been widely claimed that al-Qaeda
+employed encryption in their communications on the Internet
+        <xref ref-type="bibr" rid="ref20 ref25">(for example,
+Der Derian, 2002; Kelley, 2001)</xref>
+        . However, it appears that they used code
+w o r d s rather than the m o r e s o p h i s t i c a t e d m e t h o d s o f e n c r y p t i o n or
+steganography (hiding secret data in the pixels of a picture file). Some reports
+have suggested that plans for the 9/11 attack were hidden in pornographic web
+sites
+        <xref ref-type="bibr" rid="ref25">(for example, see Kelley, 2001)</xref>
+        . In this case senior FBI officials have
+repeatedly stated in briefings that they had found no evidence to support this
+claim
+        <xref ref-type="bibr" rid="ref10 ref11 ref11 ref15 ref26 ref27 ref34 ref35 ref4 ref46 ref49 ref7 ref9">(Conway, 2002; Weisman, 2001; Carvin, 2001; Campbell, 2001a and
+2001b)</xref>
+        . But the FBI and CIA clearly believe that terrorist groups are using
+such technologies to facilitate attacks
+        <xref ref-type="bibr" rid="ref29 ref30 ref44 ref6">(see Ballard et al., 2002; Lyman, 2001;
+McCullagh, 2001; USA Today, 2001)</xref>
+        . Following the 9/11 attacks much greater
+electronic surveillance has been introduced and hundreds of w e b sites have
+been closed down
+        <xref ref-type="bibr" rid="ref5">(Ball, 2002)</xref>
+        .
+      </p>
+    </sec>
+    <sec id="sec-3">
+      <title>Online Journalism in the Age of Netwar</title>
+      <p>
+        Many commentators have claimed that 9/11 was a key moment in the
+history of Internet; that this was when online journalism really came into its own.
+Following earlier large-scale mediated disasters such as the Oklahoma City
+Bombing and the TWA 800 Explosion, September 11 has been heralded as the
+biggest story yet to break in the age of new media
+        <xref ref-type="bibr" rid="ref2">(Allan, 2002)</xref>
+        . The terrorist
+attacks on the World Trade Center and the Pentagon crippled the United States
+of America within a few hours. The images, repeatedly shown on television
+screens around the western world, captured the real horror o f the event and led
+the way for the first few hours. Just under thirty minutes after the first plane hit
+the north tower o f the World Trade C e n t e r the e d i t o r o f the n e w s g r o u p
+slashdot.com, not known as a "news site," posted a message detailing the
+events. For the next twenty-four hours this kind of alternative news site
+managed to keep online, despite a huge increase in traffic
+        <xref ref-type="bibr" rid="ref26">(King, 2001)</xref>
+        . Indeed,
+such was the demand for information that major news sites on the Internet
+were completely jammed within a very short space of time. The events of 9/11
+are a prime example of a network war. As Der Derian observes:
+"Technologically driven events outpaced organic modes of comprehension, and human
+actions, whether out of trauma or information overload, seemed increasingly
+to resemble machinic reflexes" (2002:107). Subsequently, over the next few
+days there was a drop in the number o f U.S. Internet users trying to access
+news sites to gain further information on the background to the events.
+However, levels of Internet access were to rise again to levels beyond those prior to
+the event. The creation of web site archives of the events of 9/11 created a
+virtual sense of collective memory.
+      </p>
+      <p>What is clear is that this news event affected Internet accessibility in a way
+in which no other had impacted upon it before. A number of reasons can be
+identified for this. The collapse of the World Trade Center itself caused major
+problems for broadcasting as a number of radio and TV stations lost their
+transmitter towers in the explosion. Although some stations were able to use
+backup transmitters, some were completely unable to function. Long distance
+telephone lines were cut o f f when the North Tower collapsed, affecting the
+infrastructure linking a number of major network sites to the Internet.
+Telephone lines in some areas quickly became jammed. In the immediate
+aftermath of the disaster people were generally able to e-mail friends and relatives.
+It was not long, however, before web sites became inaccessible due to the
+sheer volume of traffic.</p>
+      <p>
+        The Pew Internet and American Life Project conducted a number of
+telephone surveys of people's Internet use in the United States, both before and
+after the events of 9/11. While the findings of such surveys must be treated
+with caution (for example, non-response rates or questionwording) they
+suggest that almost half of Internet users experienced problems accessing the news
+sites they were trying to reach on September 11. According to the findings,
+general Internet use fell during the days after the attack. However, the use o f
+the Internet as an information-gathering tool substantially increased compared
+to earlier periods. Many people in the United States turned to international
+news sites in their quest for information, particularly the BBC news site
+        <xref ref-type="bibr" rid="ref2 ref42">(Allan,
+2002; Stanton, 2002)</xref>
+        . Also, people made increased use of government and
+NGO web sites, such as those run by the Red Cross:
+      </p>
+      <p>
+        Pew Internet Project surveys show that on an average day online in the four weeks before
+the terror attacks, 22% of Internet users got some kind of news, often by chancing upon
+news items while they were browsing or doing other activities on Web sites. On the day
+of the attack, 28% of Internet users were getting news and in the period of September
+1219, 27% were getting news on a typical day. Overall, 50% of Internet users, or about 53
+million people, went online looking for news about the attacks and the aftermath at
+some point in the first three weeks after attacks.
+        <xref ref-type="bibr" rid="ref35">(Pew Internet Organisation, 2001: 8)</xref>
+        Television was still the primary news source, even among the heaviest
+regular Internet users. Yet the Internet was significant in the way it was used
+interactively in the days after the event, when people posted personal accounts of
+the tragedy, individual responses, photographic records, and video footage
+        <xref ref-type="bibr" rid="ref28">(Langfield, 2002)</xref>
+        . Journalists themselves increasingly participated in Internet
+chat rooms and online bulletin boards in their quest for new eyewitness
+accounts
+        <xref ref-type="bibr" rid="ref2">(Allan, 2002)</xref>
+        . There is some evidence that people sought out
+alternative news sites, particularly when the major news sites became inaccessible.
+Also, a number of little-known w e b sites in the Middle East were accessed,
+such as Islam Online &lt;www.islamonline.net&gt; and the satellite news channel
+al-Jazeera &lt;www.aljazeera.net&gt;. As Allan notes: "From one w e b site to the
+next, an array of alternative voices and viewpoints came to the fore, many
+systematically marginalized, even silenced, in the mainstream Western media"
+(2002: 131). N e w w e b sites sprung up providing a host o f information on
+breaking news, personal reactions, and differing perspectives about possible
+motives for the attacks
+        <xref ref-type="bibr" rid="ref23 ref24">(Guest, 2001; Katz, 2001; Raphael, 2002)</xref>
+        .
+      </p>
+      <p>
+        The top ten Google search terms relating to the terrorist attacks were: "cnn,"
+" w o r l d trade center," " b b c , " " p e n t a g o n , " " m s n b c , " " o s a m a bin laden,"
+"nostradamus," "american airlines," "fbi," and "barbara olsen"
+        <xref ref-type="bibr" rid="ref47">(Wiggins,
+2001)</xref>
+        . Similarly, the most frequently used Lycos search words included: "world
+trade center," "nostradamus," "New York," " o s a m a bin laden," "terrorism,"
+"pentagon," "Afghanistan," "Camp David," "fbi," "Palestinians," and "Taliban"
+        <xref ref-type="bibr" rid="ref2">(Mariano, cited in Allan, 2002: 132)</xref>
+        . Interestingly, government agencies, such
+as the Pentagon and the FBI, feature strongly in both cases. Initially Google
+advised people to turn to TV or radio to find out details of breaking news,
+given the inability of the web to cope with such demand and the home page
+gave links to the Washington Post, CNN, and Yahoo News. However, it was
+not long before Google changed its policy and decided to provide users with
+an increasing array of news links. As Wiggins observes: "By offering an
+authoritative human-edited list of news, donation and rescue sites, Google
+provided the services one would expect o f a portal" (2001:8). The significance
+here is that Google began to perform the role of an editor in sifting through
+sources and deciding which ones were the most useful and trustworthy.
+      </p>
+      <p>
+        The Internet also acted as a conduit for a host of rumours that circulated in
+the aftermath of 9/11. Rumours quickly multiply in a climate of fear where
+people are searching for some sense of meaning and control over the situation
+        <xref ref-type="bibr" rid="ref12 ref34">(Cassel, 2002; Newitz, 2001)</xref>
+        . The myths included: the rumour that Nostradamus
+had predicted the attacks, that the image of Satan appeared in the photographs
+of the twin towers, that C N N used old footage to falsely show Palestinians
+celebrating after the attacks, and the claim that thousands of Jews had been
+pre-warned of the attacks and did not turn up to work that day
+        <xref ref-type="bibr" rid="ref22 ref36">(O'Leary, 2001;
+Emery, 2003)</xref>
+        . It was not long before sites were developed that sought to
+identify false rumours (for example, see &lt; w w w . s n o p e s . c o m / r u m o r s &gt; . It would
+clearly be in terrorists' interests to fuel fear and anxiety by playing a role in the
+circulation of such rumours, but it would be very difficult to prove this had
+taken place.
+      </p>
+      <p>
+        Much attention has been paid to assessing the likely nature of bio-terrorism
+and risks that cannot be immediately detected by our senses. As Waisbord
+observes: "Like the risk of terrorism, the threat of bio-terrorism only became a
+risk worth media coverage after it materialised and resulted in billions of
+dollars of losses" (2000:209). Such risks appear largely intangible and unreal
+until actual symptoms manifest themselves, but the media can play a role in
+heightening levels of public concern
+        <xref ref-type="bibr" rid="ref1">(Adam, Beck, and Van Loon, 2000)</xref>
+        .
+Different interests in society struggle with one another over their particular
+ideologies of risk and official sources tend to gain precedence. Media
+representations provide the public with important information with which to assess
+the vulnerability of individuals and to form judgements as to who is
+responsible. A study by
+        <xref ref-type="bibr" rid="ref45">Waisbord (2000)</xref>
+        found that in the case of early U.S.
+covera g e of the anthrax scares the media c o n v e y e d the lack of consensus among
+experts who were clearly very divided as to what to do. Reporting tended to
+frame the anthrax scares in terms of the al-Quaeda connection and potentially
+fuelled anxieties about further bio-terrorism attacks. Yet we cannot draw any
+conclusions about audience responses simply upon the basis of a content
+analysis study that focuses on news media representations. Audience responses are
+very complex and people read a whole variety of meanings into media texts,
+as the work of the Glasgow University Media Group demonstrates
+        <xref ref-type="bibr" rid="ref3 ref48">(see
+Anderson, 1997; Wilkinson, 2001)</xref>
+        .
+      </p>
+      <p>C o n c l u s i o n</p>
+      <p>
+        Despite the significance of new media technologies, traditional television
+and print media are still centrally important as vehicles that potentially fuel
+public fear and anxiety. The act of political violence itself is still the best way
+to obtain publicity, not simply the circulation of information via the Internet.
+Gaining blanket news coverage is designed to reach target populations e n
+m a s s e , generate a debate about the motives for an act of political violence, and
+enable leaders to achieve prominence
+        <xref ref-type="bibr" rid="ref32">(Nacos, 2000)</xref>
+        . Electronic media within
+the western world do, however, play a key role in legitimizing particular risks
+over others and the speed at which communication occurs allows for the rapid
+spread of both information and misinformation.
+      </p>
+      <p>
+        At present the Internet is still being used mainly for propaganda purposes
+and to provide a secure means of communication, but in the future cyber
+terrorism may well become more of a threat (Whine, 1999). H o w far will
+terrorists increase their dependence upon IT in the future? This depends upon how
+far new media technologies serve their goals and offer a secure means of
+operation. Will we see the emergence of what Zanini and Edwards label a new
+breed of "terrorists c u m hackers" mounting most of their attacks in cyberspace?
+This might include such tactics as automated e-mail bombs, computer viruses,
+computer break-ins, web blockades and sit-ins, and web hacks
+        <xref ref-type="bibr" rid="ref11 ref17 ref18 ref19 ref27 ref34 ref42">(see Damphouse
+and Smith, 1998; Denning, 2001a; Stanton, 2002)</xref>
+        . Soon after the 9/11 attacks
+a group o f hackers calling themselves the Dispatchers said they would bring
+down web servers and Internet access in Afghanistan and target countries that
+support terrorists
+        <xref ref-type="bibr" rid="ref18 ref19 ref26">(Denning, 2001b)</xref>
+        . Denning maintains:
+      </p>
+      <p>In assessing the threat of cyber terrorism it is important to look beyond the traditional
+terrorist groups and to the computer geeks who already possess considerable hacking
+skills...the next generation of terrorists will grow up in a digital world with ever more
+powerful and easy-to-use hacking tools at their disposal... We cannot afford to shrug off
+the threat. (Denning, 2001b:4)</p>
+      <p>Yet it is important not to exaggerate the c y b e r terrorism threat. Terrorist
+groups are making considerable use of the Internet but have not yet launched
+a major cyber terrorism attack. It is likely that in the future terrorists will
+continue to exploit new technological d e v e l o p m e n t s where it serves their goals
+and offers a secure means of communication. There is an urgent need to
+understand how the dynamics of new media technologies are affecting strategic
+action in the terrorism war and how the public perceives such risks.
+Instantaneous news coverage is made possible by the digital flow of information through
+satellite technology. The traditional print and television media remain
+important and television news, in particular, played a key role in breaking the news
+of the September 11 attacks. The worldwide broadcasting o f terrorist attacks,
+in many cases unfolding in real time, amplifies the effect on the global
+political arena. Indeed, the events o f 9/11 have highlighted the changing role and
+responsibility o f both traditional and new media in a globally enlarged public
+sphere. H o w the news media rise to this challenge in the long term remains to
+be seen, but clearly the World Trade Center attacks have provoked important
+new lines o f critical questioning about risk, knowledge, and the media.</p>
+      <p>N o t e</p>
+      <p>R e f e r e n c e s
+1. "Terrorism" itself is notoriously difficult to define and involves subjective value judgements (see</p>
+      <p>Ballard et al. 2002; Schmid and de Graaf, 1982).</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Adam</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Beck</surname>
+            ,
+            <given-names>U.</given-names>
+          </string-name>
+          , and Van Loon,
+          <string-name>
+            <surname>J</surname>
+          </string-name>
+          . (eds.) (
+          <year>2000</year>
+          ),
+          <article-title>The Risk Society and Beyond: Critical Issues for Social Theory</article-title>
+          , London: Sage.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Allan</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Reweaving the Intemet: Online News of September 1lth, '' in Zelizer, B</article-title>
+          . and
+          <string-name>
+            <surname>Allan</surname>
+          </string-name>
+          , S. (eds.),
+          <source>Journalism after September 11</source>
+          , London: Routledge.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Anderson</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>1997</year>
+          ), Media, Culture and the Environment, London: UCL.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Arquilla</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Ronfeldt</surname>
+          </string-name>
+          , D. (eds.) (
+          <year>2001</year>
+          ),
+          <article-title>Networks and Netwars: The Future of Terror, Crime</article-title>
+          and Militancy, Santa Monica, CA: RAND.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Ball</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Desperately Seeking Bin Laden: The Intelligence Dimension of the War Against Terrorism," in Booth, K. and</article-title>
+          <string-name>
+            <surname>Dunne</surname>
+          </string-name>
+          , T. (eds.),
+          <article-title>Worlds in Collision: Terrorism and the Future of Global Order</article-title>
+          , Houndsmill, Basingstoke: Palgrave,
+          <fpage>60</fpage>
+          -
+          <lpage>73</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Ballard</surname>
+            ,
+            <given-names>J.D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hornik</surname>
+            ,
+            <given-names>J.G.</given-names>
+          </string-name>
+          ,
+          <article-title>and</article-title>
+          <string-name>
+            <surname>McKenzie</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Technological Facilitation of Terrorism,"</article-title>
+          <source>in American Behavioural Scientist</source>
+          <volume>45</volume>
+          (
+          <issue>6</issue>
+          ),
+          <fpage>989</fpage>
+          -
+          <lpage>1016</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Baxter</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Downing</surname>
+          </string-name>
+          , M. (eds.) (
+          <year>2001</year>
+          ),
+          <source>The Day that Shook the World: Understanding September 1Ph, London: BBC.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Booth</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Dunne</surname>
+          </string-name>
+          , T. (eds.) (
+          <year>2002</year>
+          ),
+          <article-title>Worlds in Collision: Terrorism and the Future of Global Order</article-title>
+          , Houndsmitl, Basingstoke: Palgrave.
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Campbell</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2001a</year>
+          ),
+          <article-title>"How the Terror Trail Went Unseen," in Telepolis, October 8 at &lt;www01</article-title>
+          .heise.de/ tp/english/inhalt/te/9751/1 .html&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Campbell</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2001b</year>
+          ),
+          <article-title>"Are Terrorists Using Hidden Messages?</article-title>
+          " in Telepolis, October 31 at &lt;www01.heise.de/tp/english/inhalt/te/11004/1 .html&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Carvin</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"When a Picture is Worth a Thousand Secrets: The Debate Over OnlineSteganography</article-title>
+          ,
+          <source>Communications Policy and Practice</source>
+          ,
+          <string-name>
+            <surname>Benton Foundation</surname>
+          </string-name>
+          ,
+          <article-title>" at &lt;www</article-title>
+          .mediachannel.org/atissue/ conflict/index.shtml&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Cassel</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),.
+          <article-title>"Responding to Hoaxes Online," in Online Journalism Review, April 3 at &lt;www</article-title>
+          .ojr.org/ ojr/ethics/1017873024.php&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Castells</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1996</year>
+          ),
+          <article-title>The Rise of the Network Society: The Information Age</article-title>
+          , Volume
+          <volume>1</volume>
+          , Oxford: Blackwell.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Combs</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ),
+          <article-title>Terrorism: In the Twenty First Century</article-title>
+          , New Jersey: Pearson.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Conway</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Reality Bites: Cyberterrorism and the Terrorist 'Use' of the Internet,"</article-title>
+          <source>in First Monday</source>
+          <volume>7</volume>
+          (
+          <issue>11</issue>
+          ) at &lt;firstmonday.org/issues/issue7_l 1/conway/index.html&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Carruthers</surname>
+            ,
+            <given-names>S. L.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ),
+          <article-title>The Media at War: Communication and Conflict in the Twentieth Century</article-title>
+          , New York: St Martin's Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Damphousse</surname>
+            ,
+            <given-names>K. R.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Smith</surname>
+            ,
+            <given-names>B. L.</given-names>
+          </string-name>
+          (
+          <year>1998</year>
+          ),
+          <article-title>"The Interact: A Terrorist Medium for the 21stCentury,"</article-title>
+          in Kushner, H. W. (ed.),
+          <source>The Future of Terrorism: Violence in the New Millennium, London: Sage</source>
+          ,
+          <fpage>208</fpage>
+          -
+          <lpage>224</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Denning</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2001a</year>
+          ),
+          <article-title>"Activism, Hacktivism and Cyberterrorism," in Arquilla, J. and</article-title>
+          <string-name>
+            <surname>Ronfeldt</surname>
+          </string-name>
+          , D. (eds.),
+          <source>Networks and Netwars: The Future of Terror, Crime and Militancy</source>
+          , Santa Monica, CA: RAND,
+          <fpage>239</fpage>
+          -
+          <lpage>88</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Denning</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2001b</year>
+          ),
+          <article-title>"Is Cyber Terror Next?" in Social Science Research Council at &lt;www.ssrc.org/ sept I 1/essays/denning</article-title>
+          .htm&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <given-names>Der</given-names>
+            <surname>Derian</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>J.</surname>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"</article-title>
+          <source>In Terrorem: Before and After</source>
+          <volume>9</volume>
+          /
+          <fpage>11</fpage>
+          ," in Booth, K. and
+          <string-name>
+            <surname>Dunne</surname>
+          </string-name>
+          , T. (eds.),
+          <source>Worlds in Collision: Terrorism and the Future of Global Order, Basingstoke: Palgrave</source>
+          ,
+          <fpage>101</fpage>
+          -
+          <lpage>117</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <given-names>Di</given-names>
+            <surname>Justo</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>E</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Does Official Taliban Site Exist?"</article-title>
+          <source>in WiredNews, October</source>
+          <volume>30</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Emery</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ),
+          <article-title>"Current Netlore: 9/I I Terrorist Attacks on the U.S." at &lt;urbanlegends</article-title>
+          .about.com/ libraryPolxterror.htm&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Guest</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Working the Web: Views on Afghanistan," in The Guardian</article-title>
+          ,
+          <source>October</source>
+          <volume>18</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Katz</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Net: Now Our Most Serious News Medium?" at Slashdot</article-title>
+          .org,
+          <source>October</source>
+          <volume>11</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Kelley</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Terror Groups Hide Behind Web Encryption," in USA Today, May 2</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>King</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Tech Sites Pick up the News,"</article-title>
+          <source>in Wired News, September</source>
+          <volume>11</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Langfield</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Net News Lethargy," in Online Journalism Review</article-title>
+          ,
+          <source>December</source>
+          <volume>21</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Langfield</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Democratizing Journalism," in Online Journalism Review, April 3</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Lyman</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"How Terrorists Use the Internet,"</article-title>
+          <source>in News Factor, September</source>
+          <volume>12</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>McCullagh</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Bin Laden: Steganography Master?" in Wired News, February 7 at&lt;www</article-title>
+          .wired.com/news/politics/0,1283,
+          <issue>41658</issue>
+          ,00.html&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Nacos</surname>
+            ,
+            <given-names>B. L.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ),
+          <article-title>Terrorism and the Media: From the lran Hostage Crisis to the World Trade Center Bombing</article-title>
+          , Columbia University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Nacos</surname>
+            ,
+            <given-names>B. L.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ),
+          <article-title>"Accomplice or Witness? The Media's Role in Terrorism," in Current History</article-title>
+          , April,
+          <fpage>174</fpage>
+          -
+          <lpage>78</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Nacos</surname>
+            ,
+            <given-names>B. L.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ),
+          <article-title>"The Terrorist Calculus Behind 9-11 :A Model for Future Terrorism?"</article-title>
+          <source>in Studies in Conflict and Terrorism</source>
+          <volume>26</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>16</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Newitz</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"</article-title>
+          <source>Techsploitation: How</source>
+          <volume>9</volume>
+          -11
+          <string-name>
+            <given-names>Will</given-names>
+            <surname>Change</surname>
+          </string-name>
+          <string-name>
+            <surname>Cyberspace</surname>
+          </string-name>
+          ," in Alternet, September 17 at &lt;www.alternet.org&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <given-names>Pew</given-names>
+            <surname>Internet and American Life Project</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"'The Commons of the Tragedy: How the Internet was used by Millionsafter the Terror Attack to Grieve, Console, Share News, and Debate the Country's Response," at &lt;www</article-title>
+          .pewinternet.org&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>O'Leary</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Rumors of Grace and Terror," in Online Journalism Review, October 5</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Raphael</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Media Critics see Web Role Emerge," in Online Journalism Review</article-title>
+          ,
+          <source>September</source>
+          <volume>18</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Scheeres</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001a</year>
+          ),
+          <article-title>"Afghanistan, on 50 Web Sites a Day," in WiredNews, October 8</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Scheeres</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2001b</year>
+          ),
+          <article-title>"Suppression Stifles some Sites,"</article-title>
+          <source>in Wired News, October</source>
+          <volume>25</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>Schmid</surname>
+          </string-name>
+          , J. and
+          <string-name>
+            <surname>de Graaf</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>1982</year>
+          ),
+          <article-title>Violence as Communication: Insurgent Terrorism and the Western News Media</article-title>
+          , Beverley Hills, CA: Sage.
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>Shpiro</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Conflict Media Strategies and the Politics of Counter-terrorism,"</article-title>
+          <source>in Politics 22 (2)</source>
+          ,
+          <fpage>76</fpage>
+          -
+          <lpage>85</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Stanton</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"Terror in Cyberspace,"</article-title>
+          <source>inAmerican Behavioural Scientist</source>
+          <volume>45</volume>
+          (
+          <issue>6</issue>
+          ),
+          <fpage>1017</fpage>
+          -
+          <lpage>32</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Tsfati</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Weimann</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          (
+          <year>2002</year>
+          ),
+          <article-title>"www, terrorism.com: Terror on the Internet,"</article-title>
+          <source>in Studies in Conflict and Terrorism</source>
+          <volume>25</volume>
+          (
+          <issue>5</issue>
+          ),
+          <fpage>317</fpage>
+          -
+          <lpage>32</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <surname>USA Today</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Bin Laden's Cybertrail Proves Elusive,"</article-title>
+          in USA Today, September 20 at &lt;www.usatoday.com/life/cyber/tech/2001/09/20/attacks-cybertrail.
+          <source>htm&gt;.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>Waisbord</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ),
+          <article-title>"Journalism, Risk and Patriotism," in Zelizer, B</article-title>
+          . and
+          <string-name>
+            <surname>Allan</surname>
+          </string-name>
+          , S. (eds.)
+          <source>Journalism after September I1</source>
+          , London: Routledge.
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Weisman</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"Both Sides Using Internet in Terrorism War,"</article-title>
+          <source>in News Factor, September</source>
+          <volume>28</volume>
+          ,
+          <string-name>
+            <surname>Whine</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>1999</year>
+          ),
+          <article-title>"Cyberspace: A New Medium of Communication, Command and Control by Extremists,"</article-title>
+          <source>in Studies in Conflict and Terrorism</source>
+          <volume>22</volume>
+          (
+          <issue>3</issue>
+          ),
+          <fpage>231</fpage>
+          -
+          <lpage>45</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>Wiggins</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"The Effects of September 11 on the Leading Search Engine,"</article-title>
+          <source>in First Monday</source>
+          <volume>7</volume>
+          (
+          <issue>10</issue>
+          ) at &lt;firstmonday.org/issues/issue6_10/wiggins/index.html&gt;.
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>Wilkinson</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <source>Anxiety in a Risk Society</source>
+          , London: Routledge.
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <surname>Zanini</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Edwards</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2001</year>
+          ),
+          <article-title>"The Networking of Terror in the Information Age," in Arquilla, J. and</article-title>
+          <string-name>
+            <surname>Ronfeldt</surname>
+          </string-name>
+          , D. (eds.),
+          <source>Networks and Netwars: The Future of Terror, Crime and Militancy</source>
+          , Santa Monica, CA: RAND,
+          <fpage>29</fpage>
+          -
+          <lpage>60</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
